@@ -33,5 +33,4 @@ http://31785386944321072.niceome.xyz:80/play/va08271/4122744267/321072.ts
 #EXTINF:523 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA HD 1080P" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png",CANAL COCINA HD 1080P
 http://31785386944321148.niceome.xyz:80/play/va08271/4122744267/321148.
 
-#EXTINF:-1,Cine Acestream
-https://raw.githubusercontent.com/richardguiri/p/main/p
+"url": "https://raw.githubusercontent.com/richardguiri/p/main/p",
