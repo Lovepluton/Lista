@@ -16,19 +16,19 @@ http://31785386944321196.niceome.xyz:80/play/va08271/4122744267/321196.ts
 http://31785386944321430.niceome.xyz:80/play/va08271/4122744267/321430.ts
 
 #EXTINF:523 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",LA SEXTA HD 1080P
-http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39540.m3u
+http://31785386944321289.niceome.xyz:80/play/va08271/4122744267/321289.ts
 
 #EXTINF:523 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200",Telemadrid
-http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39820.m3u
+http://31785386944165351.niceome.xyz:80/play/va08271/4122744267/165351.ts
 
 #EXTINF:523 tvg-id="La Otra" tvg-name="LA OTRA" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laotra.png" ,La Otra (ES)
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+http://31785386944316864.niceome.xyz:80/play/va08271/4122744267/316864.ts
 
 #EXTINF:523 tvg-id="M+ #0 HD" tvg-name="#0 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png",#0 HD 1080P
 http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39543.m3u
 
 #EXTINF:523 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png",#VAMOS HD 1080P
-http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39546.m3u
+http://31785386944321069.niceome.xyz:80/play/va08271/4122744267/321069.ts
 
 #EXTINF:523 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA HD 1080P" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png",CANAL COCINA HD 1080P
 http://31785386944321148.niceome.xyz:80/play/va08271/4122744267/321148.ts
