@@ -1,6 +1,4 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 FHD" tvg-chno="2" tvg-logo="https://miguia.tv/channels/big_157.png" ,ES: LA 1 FHD
-http://31785386944321276.niceome.xyz:80/play/va08271/4122744267/321276.ts
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-chno="1" tvg-logo="https://miguia.tv/channels/big_157.png" ,ES: LA 1 HD
-http://31785386944321277.niceome.xyz:80/play/va08271/4122744267/321277.ts
+#EXTINF:523 tvg-id="la1.es" tvg-name="LA 1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png",LA 1 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39525.m3u
