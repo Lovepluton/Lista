@@ -33,4 +33,9 @@ http://31785386944321072.niceome.xyz:80/play/va08271/4122744267/321072.ts
 #EXTINF:523 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA HD 1080P" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png",CANAL COCINA HD 1080P
 http://31785386944321148.niceome.xyz:80/play/va08271/4122744267/321148.
 
-"url": "https://raw.githubusercontent.com/richardguiri/p/main/p",
+{
+          "name": "Cine Acestream ",
+          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+          "url": "https://raw.githubusercontent.com/richardguiri/p/main/p",
+		  "import":true
+        }
