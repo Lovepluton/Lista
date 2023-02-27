@@ -26,3 +26,6 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 
 #EXTINF:523 tvg-id="M+ #0 HD" tvg-name="#0 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1920px-0_Movistar%2B.svg.png",#0 HD 1080P
 http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39543.m3u
+
+#EXTINF:523 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2880px-Vamos.svg.png",#VAMOS HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39546.m3u
