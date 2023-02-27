@@ -2,3 +2,21 @@
 
 #EXTINF:523 tvg-id="la1.es" tvg-name="LA 1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png",LA 1 HD 1080P
 http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39525.m3u
+
+#EXTINF:523 tvg-id="la2.es" tvg-name="LA 2 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png",LA 2 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39528.m3u
+
+#EXTINF:523 tvg-id="antena3.es" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png",ANTENA 3 HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39531.m3u
+
+#EXTINF:523 tvg-id="cuatro.es" tvg-name="CUATRO HD 1080P" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png",CUATRO HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39534.m3u
+
+#EXTINF:523 tvg-id="telecinco.es" tvg-name="TELECINCO HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png",TELECINCO HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39537.m3u
+
+#EXTINF:523 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",LA SEXTA HD 1080P
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39540.m3u
+
+#EXTINF:523 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200",Telemadrid
+http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39820.m3u
