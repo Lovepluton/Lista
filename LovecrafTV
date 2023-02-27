@@ -21,5 +21,5 @@ http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39540.m3u
 #EXTINF:523 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200",Telemadrid
 http://blackghost.win:8080/live/Antoniocan35/AmPgBJkHyLWw/39820.m3u
 
-#EXTINF:523 tvg-id="La Otra" tvg-name="LA OTRA" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laotra.png" ,La Otra SD (ES)
+#EXTINF:523 tvg-id="La Otra" tvg-name="LA OTRA" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laotra.png" ,La Otra (ES)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
