@@ -57,5 +57,5 @@ http://31785386944272494.niceome.xyz:80/play/va08271/4122744267/272494.ts
 #EXTINF:-1 tvg-id="" tvg-name="DITTY TV HD" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=320&height=320",DITTY TV HD
 http://31785386944272496.niceome.xyz:80/play/va08271/4122744267/272496.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="M2O MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="ES MUSICALES",M2O MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="M2O MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png",M2O MUSIC HD
 http://31785386944272500.niceome.xyz:80/play/va08271/4122744267/272500.ts
