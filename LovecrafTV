@@ -32,3 +32,12 @@ http://31785386944321072.niceome.xyz:80/play/va08271/4122744267/321072.ts
 
 #EXTINF:523 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA HD 1080P" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png",CANAL COCINA HD 1080P
 http://31785386944321147.niceome.xyz:80/play/va08271/4122744267/321147.ts
+
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="ES: CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" +",ES: CANAL HISTORIA FHD
+http://31785386944321156.niceome.xyz:80/play/va08271/4122744267/321156.ts
+
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD",ES: #VAMOS FHD
+http://31785386944321071.niceome.xyz:80/play/va08271/4122744267/321071.ts
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",ES: DAZN FORMULA 1 HD
+http://31785386944165419.niceome.xyz:80/play/va08271/4122744267/165419.ts
