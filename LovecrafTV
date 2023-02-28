@@ -44,3 +44,9 @@ http://31785386944165419.niceome.xyz:80/play/va08271/4122744267/165419.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png",ES: GOL TV HD
 http://31785386944165449.niceome.xyz:80/play/va08271/4122744267/165449.ts
+
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M LALIGA FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png",ES: M LALIGA FHD
+http://31785386944165385.niceome.xyz:80/play/va08271/4122744267/165385.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 HD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg",ES: M+ DAZN 1 HD
+http://31785386944228385.niceome.xyz:80/play/va08271/4122744267/228385.ts
