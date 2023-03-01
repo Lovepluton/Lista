@@ -1,11 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="ES: M+ ESTRENOS HD" tvg-logo="https://miguia.tv/channels/big_274.png",ES: M+ ESTRENOS HD
-http://31785386944321338.niceome.xyz:80/play/va08271/4122744267/321338.ts
-
-#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="ES: M+ ESTRENOS 2 HD" tvg-logo="https://miguia.tv/channels/big_338.png",ES: M+ ESTRENOS 2 HD
-http://31785386944321335.niceome.xyz:80/play/va08271/4122744267/321335.ts
-
 #EXTINF:523 tvg-id="la1.es" tvg-name="LA 1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png",LA 1 HD 1080P
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
